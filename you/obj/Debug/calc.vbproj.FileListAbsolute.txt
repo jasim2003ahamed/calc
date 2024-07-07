@@ -1,0 +1,12 @@
+C:\Users\zahir\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\zahir\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\zahir\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\zahir\source\repos\calc\calc\bin\Debug\calc.xml
+C:\Users\zahir\source\repos\calc\calc\obj\Debug\calc.vbproj.AssemblyReference.cache
+C:\Users\zahir\source\repos\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\zahir\source\repos\calc\calc\obj\Debug\calc.Resources.resources
+C:\Users\zahir\source\repos\calc\calc\obj\Debug\calc.vbproj.GenerateResource.cache
+C:\Users\zahir\source\repos\calc\calc\obj\Debug\calc.vbproj.CoreCompileInputs.cache
+C:\Users\zahir\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\zahir\source\repos\calc\calc\obj\Debug\calc.xml
+C:\Users\zahir\source\repos\calc\calc\obj\Debug\calc.pdb
